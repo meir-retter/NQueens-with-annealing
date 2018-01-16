@@ -1,0 +1,1 @@
+Uses simulated annealing to solve the n-queens problem
